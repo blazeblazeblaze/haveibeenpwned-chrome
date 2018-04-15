@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Spinner uses custom spinner file path 1`] = `
+<div
+  className="spinner-wrapper"
+>
+  <img
+    alt="spinner"
+    className="spinner"
+    src="some-path.png"
+  />
+</div>
+`;
+
+exports[`Spinner uses default spinner file path 1`] = `
+<div
+  className="spinner-wrapper"
+>
+  <img
+    alt="spinner"
+    className="spinner"
+    src="src.png"
+  />
+</div>
+`;

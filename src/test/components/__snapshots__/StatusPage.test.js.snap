@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StatusPage renders EmailForm when email is set 1`] = `
+<div>
+  ResultPage
+</div>
+`;
+
+exports[`StatusPage renders ResultPage when email is not set 1`] = `
+<div>
+  EmailForm
+</div>
+`;

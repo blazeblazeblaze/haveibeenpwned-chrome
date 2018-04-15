@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EmailForm renders the form 1`] = `
+<form
+  className="pure-form"
+  onSubmit={[Function]}
+>
+  <input
+    className="pure-input-rounded"
+    onChange={[Function]}
+    placeholder="Email"
+    type="email"
+    value=""
+  />
+   
+  <button
+    className="pure-button pure-button-primary"
+    type="submit"
+  >
+    Pwned?
+  </button>
+</form>
+`;

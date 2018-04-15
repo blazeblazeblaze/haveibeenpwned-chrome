@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RestartLink renders Link component 1`] = `
+<a
+  className="pure-button pure-button-primary button-small"
+  href=""
+  onClick={[Function]}
+>
+  Try with a different email
+</a>
+`;

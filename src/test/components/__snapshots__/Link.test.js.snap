@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link renders with classes and href 1`] = `
+<a
+  className="custom-class"
+  href="http://google.com"
+  onClick={[Function]}
+/>
+`;
+
+exports[`Link renders with its children 1`] = `
+<a
+  className=""
+  href=""
+  onClick={[Function]}
+>
+  <span>
+    hello world
+  </span>
+</a>
+`;
+
+exports[`Link renders with no attrs 1`] = `
+<a
+  className=""
+  href=""
+  onClick={[Function]}
+/>
+`;

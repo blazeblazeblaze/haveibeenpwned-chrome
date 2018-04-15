@@ -1,0 +1,33 @@
+.App {
+  margin: auto;
+  height: 100vh;
+  background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+.content-wrapper {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.logo-wrapper {
+  display: inline-block;
+  margin-bottom: 10vh;
+}
+
+.logotype {
+  border-radius: 10px;
+  border: 2px solid #fff!important;
+  font-size: 1.4em;
+  padding: 4px 8px 7px;
+  margin: 7px;
+  font-weight: 700;
+  height: auto;
+  text-decoration: none;
+  color: white;
+}

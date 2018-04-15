@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NotPwned renders sad text and links 1`] = `
+<div>
+  <p>
+    <strong>
+      Happy days!
+    </strong>
+     It looks like you've never been pwned!
+  </p>
+  RestartLink
+</div>
+`;

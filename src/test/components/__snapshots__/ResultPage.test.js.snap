@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ResultPage renders NonPwn when isPwned is false 1`] = `
+<div>
+  NotPwnedComponent
+</div>
+`;
+
+exports[`ResultPage renders Pwn when isPwned is true 1`] = `
+<div>
+  PwnedComponent
+</div>
+`;

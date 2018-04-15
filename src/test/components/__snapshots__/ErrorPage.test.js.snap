@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ErrorPage renders with errors 1`] = `
+<div>
+  <span
+    className="App-intro"
+  >
+    <p>
+      Oh no! It looks like you've encountered errors.
+      <span>
+        API timeout
+      </span>
+    </p>
+    <a
+      className="pure-button pure-button-primary button-small"
+      href=""
+      onClick={[Function]}
+    >
+      Try with a different email
+    </a>
+  </span>
+</div>
+`;
